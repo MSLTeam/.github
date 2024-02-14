@@ -3,6 +3,6 @@
 
 QQ交流群：①[1145888872](https://qm.qq.com/q/MkCYJKKiGY) ②[234477679](https://qm.qq.com/q/lZ9qA5ykDY)
 
-![image-20240214164535656](./assets/image-20240214164535656.png)
+![image-20240214164535656](https://raw.githubusercontent.com/msldevs/.github/main/profile/assets/image-20240214164535656.png)
 
 Copyright © [**MSLDEVS**](https://github.com/msldevs) 2020-2024 All Right Received.
