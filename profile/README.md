@@ -16,5 +16,15 @@
 ![image-msl](https://raw.githubusercontent.com/msldevs/.github/main/profile/assets/wechat_2025-09-17_165302_771.png)
 ![image-mslx](https://raw.githubusercontent.com/msldevs/.github/main/profile/assets/image-20251218192058397-9-vxqtrp.png)
 
+## Star History
+如果我们的项目对您有帮助，不妨给个star~ 谢谢喵~
+
+<a href="https://www.star-history.com/?repos=MSLTeam%2FMSLX%2CMSLTeam%2FMSL&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=MSLTeam/MSLX%2CMSLTeam/MSL&type=date&theme=dark&legend=top-left&sealed_token=9-LVCcrXievyfmxtRiqgcKN_z5F7nwPB7C8DVh3kZV5mvhrAmDLX4dQ3HS0wktkGROiRzxKV2SB163SIJ-3Jg1ZtsTWEpLrLni-BA9IJ3N4TgvbO1zIjWg" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=MSLTeam/MSLX%2CMSLTeam/MSL&type=date&legend=top-left&sealed_token=9-LVCcrXievyfmxtRiqgcKN_z5F7nwPB7C8DVh3kZV5mvhrAmDLX4dQ3HS0wktkGROiRzxKV2SB163SIJ-3Jg1ZtsTWEpLrLni-BA9IJ3N4TgvbO1zIjWg" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=MSLTeam/MSLX%2CMSLTeam/MSL&type=date&legend=top-left&sealed_token=9-LVCcrXievyfmxtRiqgcKN_z5F7nwPB7C8DVh3kZV5mvhrAmDLX4dQ3HS0wktkGROiRzxKV2SB163SIJ-3Jg1ZtsTWEpLrLni-BA9IJ3N4TgvbO1zIjWg" />
+ </picture>
+</a>
 
 <div style="text-align:center;"> Copyright © <strong><a href="https://github.com/MSLTeam/">MSLTeam</a></strong> 2021-2026 All Right Received.</div>
